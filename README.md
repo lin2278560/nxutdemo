@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # nuxtdemo
 
 > none
@@ -20,3 +21,7 @@ $ npm run generate
 ```
 
 For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
+=======
+# nxutdemo
+none
+>>>>>>> 469e4b3eda8fec9a310fc37c2a41a0b469bf5162
